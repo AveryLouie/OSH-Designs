@@ -1,0 +1,14 @@
+G04 DipTrace 2.2.0.9*
+%INBottomSilk.gbr*%
+%MOIN*%
+%FSLAX44Y44*%
+%SFA1B1*%
+%OFA0B0*%
+G04*
+G70*
+G90*
+G75*
+G01*
+%LNBotSilk*%
+%LPD*%
+M02*
